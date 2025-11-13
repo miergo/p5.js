@@ -19,7 +19,7 @@
     },
     "include": [
         "src/utils/sketchHelper.ts",
-        "src/P_2_0/helloShape1.ts"
+        "src/P_2_3/drawingWithAnimatedBrushes.ts"
     ],
     "exclude": [
         "node_modules",
