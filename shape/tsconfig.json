@@ -19,7 +19,7 @@
     },
     "include": [
         "src/utils/sketchHelper.ts",
-        "src/P_2_3/drawingWithAnimatedBrushes.ts"
+        "src/P_2_2/agentsOnPendulum.ts"
     ],
     "exclude": [
         "node_modules",
